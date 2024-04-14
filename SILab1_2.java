@@ -39,7 +39,7 @@
 
 
   <script type="application/json" id="client-env">{"locale":"en","featureFlags":["code_vulnerability_scanning","copilot_conversational_ux_history_refs","copilot_smell_icebreaker_ux","copilot_implicit_context","failbot_handle_non_errors","geojson_azure_maps","image_metric_tracking","marketing_forms_api_integration_contact_request","marketing_pages_search_explore_provider","turbo_experiment_risky","sample_network_conn_type","no_character_key_shortcuts_in_inputs","react_start_transition_for_navigations","custom_inp","remove_child_patch"]}</script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-d493ce55acaa.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-bcfae5519a34.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_dompurify_dist_purify_js-6890e890956f.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_oddbird_popover-polyfill_dist_popover_js-7bd350d761f4.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_smoothscroll-polyfill_dist_smoothscroll_js-node_modules_stacktrace-parse-a448e4-bb5415637fe0.js"></script>
@@ -55,7 +55,7 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_file-attachment-element_dist_index_js-node_modules_primer_view-co-27181b-3509ed8075c4.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_onfocus_ts-ui_packages_trusted-types-policies_policy_ts-ui_packages-6fe316-30edc9da471c.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/github-elements-34cbf079a4f4.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/element-registry-476fc76c7079.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/element-registry-d2f08f43d466.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_catalyst_lib_index_js-node_modules_github_hydro-analytics-client_-4da1df-9de8d527f925.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_stacktrace-parser_dist_s-1acb1c-a745699a1cfa.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_lit-html_lit-html_js-5b376145beff.js"></script>
@@ -117,7 +117,7 @@
   <meta name="current-catalog-service-hash" content="82c569b93da5c18ed649ebd4c2c79437db4611a6a1373e805a3cb001c64130b7">
 
 
-  <meta name="request-id" content="13DD:2E5341:CF0C5E9:D115320:661C45F4" data-pjax-transient="true"/><meta name="html-safe-nonce" content="82ad67f7ab9f1d9668e0312da72cb217e1b39f334a237af40db1d8cc861daf78" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIxM0REOjJFNTM0MTpDRjBDNUU5OkQxMTUzMjA6NjYxQzQ1RjQiLCJ2aXNpdG9yX2lkIjoiODgxMzgwMTMwMjkzMTU1NTgyOCIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImZyYSJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="8c1470ddf626e26fd827ffdaba0f0efb2579ae6e1686455a4a9259f680133ea7" data-pjax-transient="true"/>
+  <meta name="request-id" content="12F0:28A502:24C74036:2529BC0B:661C470E" data-pjax-transient="true"/><meta name="html-safe-nonce" content="173c7319fd31e61ede2369bc9d63853755ead5d27e12eacddbc4f0d09338e2c6" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIxMkYwOjI4QTUwMjoyNEM3NDAzNjoyNTI5QkMwQjo2NjFDNDcwRSIsInZpc2l0b3JfaWQiOiI2NzAwMzgzNjU2MTkxMjE1Mzc0IiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiZnJhIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="26a9580aa8939d3453bb99af976c903e54e22adadf9d736ac4d0f55c34c13b63" data-pjax-transient="true"/>
 
 
     <meta name="hovercard-subject-tag" content="repository:769182268" data-turbo-transient>
@@ -169,10 +169,10 @@
         <meta name="expected-hostname" content="github.com">
 
 
-  <meta http-equiv="x-pjax-version" content="5795a6434cb2c75f562ce68f682afd728a68facc65b1c9109557d7efc9b7eb2a" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-version" content="71bfb2e6193fdf656a7237d2f415062572dfd6068e3e1aaeb4bbb0e2e5903c87" data-turbo-track="reload">
   <meta http-equiv="x-pjax-csp-version" content="f226bf37af9c33162063db3eb018fed7f088f86d0a20ca54c013fda96c7f2e05" data-turbo-track="reload">
   <meta http-equiv="x-pjax-css-version" content="0d5a428483c0dafc37bb01ea323958d4eb303edc80d307a3e4898c6e22d6c12f" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-js-version" content="9fe9f0fc7d7dc72618906773b471cf26185f9db7ecd74db6ed4f7c854b2a8f51" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-js-version" content="3721f183f37b45d1d852d25fb2029af93901d5c55b5ec789875fbd922f219848" data-turbo-track="reload">
 
   <meta name="turbo-cache-control" content="no-preview" data-turbo-transient="">
 
@@ -635,7 +635,7 @@
                 
 
 
-<qbsearch-input class="search-input" data-scope="repo:stefanandonov/SI_2024" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="uja5hua9C_470EW4mrE3p1F3QtIz24topCKFR3yhYDa_B9FXwzsKOdUcDoNOTI2X49RckPrO7WxsLG2WOGDBCw" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="stefanandonov/SI_2024" data-current-org="" data-current-owner="stefanandonov" data-logged-in="false" data-copilot-chat-enabled="false" data-blackbird-indexed-repo-csrf="<esi:include src=&quot;/_esi/rails_csrf_token_form_hidden?r=RB%2Fr93p7mvMRGY%2BqhGuNVbZyTK6u92okzbE9RS%2B2mnDpz38Fhx8YwsUWmXra7hfi%2Fk5jcUUNPFUjQ1h4TzxLd00gerksprTrokBOWQRKdSK73r9UEcVqNm4cneP7ypWKD0M%2BbT%2FIr4jEAJH1RZpuLPg1FOvV0c1upczgFpp4LQw5jJCiWd8FhIIqtBVWbCuLolrV83gTFMfxT%2B3JmfmZ0jQ62qbgdBfrTuBSSZgPYlvOyLzOho6jzAtZxXcWQeYgjTiNfS0EHAq5XaUDZfWWFT622fVfnPbjaJh0FyFM3ocZ9y87evIiRNdX3KPl%2Bis73RLFP5OCSs380whvoGkO%2BxrlIzfbxZPG2Q9Bb83UDBiPfBHGgQTqQCoGgxO173CoWtjNSGgzlOUydBSpXTSOKLl1lxKpHlFVRxC66iS0Mk0NUS7F%2BcDXU%2F1N%2FDpS%2BagH7klIlkgozTJD50bPn3U30Na19j5%2F2Kcs5pJ1c957F4%2FaUEHJJoymXKpdlJlQv8mxm9QbMUJNqnJGr0OMtikWGuewkENFtBvK1IJNMgl4pXgPFGhfqtNKBSbitS6k2WR0eNVxvLst--mls5SNg7y0SHy3dX--442iZhNvMnhcQTErEYq9aA%3D%3D&quot; />">
+<qbsearch-input class="search-input" data-scope="repo:stefanandonov/SI_2024" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="bwkD_GBpailL26eCM-i0Udu6SUs1Hj3e4YqwxTLT_4f6p3m6zJ5ZUOFP1jqKBjaRNCsa-Vq1GTz0q8Z2-P_4MA" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="stefanandonov/SI_2024" data-current-org="" data-current-owner="stefanandonov" data-logged-in="false" data-copilot-chat-enabled="false" data-blackbird-indexed-repo-csrf="<esi:include src=&quot;/_esi/rails_csrf_token_form_hidden?r=DfP8sBZUm40vVHeVmWIkicOJ5VmPcAXGFeao1mbpNX0W8ztIuHtD6UtdU6iVcYsy4tda3EXxkMBTk0RA%2BgRRTzVjVgbVTfQ%2B41cNFJ6bnqaIfkmm2RaQmovC9Th2YGFw7umAxUMXAzsTxMY2YIDVxe5bWFqjr%2ByynZPg3Ml2h656zBoYeZT8lG%2FjYgMy6LlSfW%2FFS3SyjqyGuAuPbOH35SOFJrbCFNdp4c77t79Csu6AW4EatbikMDosd6%2FS1b1XjaO3SUvsTotUCpChLG6pWyg9D%2FDZS2%2F90CoDtYG6RdComoAdAYOHLYJNy5PWR9K3CGtB8Gx0xhDaJYiVLC1au7OqLIrp0MLqTYH%2BPe83K2j%2BNqqjKKHPmptiBnonMws%2BxIZLGyHMioecNR7oFLlavOuMJICCfVU0o6RPFiixX0FouudXBJbRUX%2FJWDF7%2BPGDYrHlSV%2BCwtykzcRoVjikJahHXDf7fB3KkatJlJYEr5RHGBsnfGH2OcmL%2FKEoEPsxFcTbrSclkE46BUW%2FNhmH9cbx7xsdgFO%2FDApX4OHOI0ruDrts7CvikM8OVV5pEeBt63OWtRPU--fNy6J2gH2%2BG8MsM4--WakXK%2FTcfhZSrRV%2FwzRUrw%3D%3D&quot; />">
   <div
     class="search-input-container search-with-dialog position-relative d-flex flex-row flex-items-center mr-4 rounded"
     data-action="click:qbsearch-input#searchInputContainerClicked"
@@ -697,7 +697,7 @@
           ></div>
           <div class="QueryBuilder-InputWrapper">
             <div aria-hidden="true" class="QueryBuilder-Sizer" data-target="query-builder.sizer"></div>
-            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-7c213a20-c187-4a90-a716-6527e5fda6f4" data-target="query-builder.input" data-action="
+            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-73aa161e-9bb6-44ab-86d4-f20bf752e5fb" data-target="query-builder.input" data-action="
           input:query-builder#inputChange
           blur:query-builder#inputBlur
           keydown:query-builder#inputKeydown
@@ -928,7 +928,7 @@
                   id="query-builder-test-results"
                 ></ul>
         </div>
-      <div class="FormControl-inlineValidation" id="validation-7c213a20-c187-4a90-a716-6527e5fda6f4" hidden="hidden">
+      <div class="FormControl-inlineValidation" id="validation-73aa161e-9bb6-44ab-86d4-f20bf752e5fb" hidden="hidden">
         <span class="FormControl-inlineValidation--visual">
           <svg aria-hidden="true" height="12" viewBox="0 0 12 12" version="1.1" width="12" data-view-component="true" class="octicon octicon-alert-fill">
     <path d="M4.855.708c.5-.896 1.79-.896 2.29 0l4.675 8.351a1.312 1.312 0 0 1-1.146 1.954H1.33A1.313 1.313 0 0 1 .183 9.058ZM7 7V3H5v4Zm-1 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
@@ -969,7 +969,7 @@
   </div>
 </div>
       <scrollable-region data-labelled-by="feedback-dialog-title">
-        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="f4XRkdk2/gI7YJeEbXaQi+/ZmZKYMoLvKElZBkpEsqkVV8KuchSZf9URMgDdZQ2F3YtufVGrvlQOpmhKDA/ksQ==" />
+        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="u5bN/vo/aEeXwhwDccB2WqjOa+q0TorkFoHj0lv7AsMhELmrFFDOcx2nHsbPh8uN4zhS963cosDP5MI6h9E0FA==" />
           <p>We read every piece of feedback, and take your input very seriously.</p>
           <textarea name="feedback" class="form-control width-full mb-2" style="height: 120px" id="feedback"></textarea>
           <input name="include_email" id="include_email" aria-label="Include my email address so I can be contacted" class="form-control mr-2" type="checkbox">
@@ -1006,7 +1006,7 @@
         <div data-view-component="true" class="Overlay-body">        <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
         <div hidden class="create-custom-scope-form" data-target="custom-scopes.createCustomScopeForm">
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="IYtfIqL63fl9VOl1pCycVS04Z1850Hv+zsXXx+E4Ab4TOOdnyvkuSg2aB3XufBF6y7bHsQ0ZrxkVSXZqW2H32w==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="A42w8G2yR8Q3I1bi9+URLykn/kZ5EmF8mEcKNigJHy2jBqu6l+sdZ9TjWYK4TMe/wPekGDHxKLNQ1M7nsbnzew==" />
           <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
           <input type="hidden" id="custom_scope_id" name="custom_scope_id" data-target="custom-scopes.customScopesIdField">
@@ -1024,7 +1024,7 @@
                 placeholder="github-ruby"
                 required
                 maxlength="50">
-              <input type="hidden" data-csrf="true" value="8ZXQMT97Dgm8Cc5HQV8oyCx6xqTbFET9H+qpGast+sWBQk+TpMNaUSVAiJx8PqzWT2LWUnlW5CWuC2/iD+KLRg==" />
+              <input type="hidden" data-csrf="true" value="5FaBqqKvIIPGo0e4s32I34xJyKEUuqfsd1aaw/P6yjQbh0oXIPg1tZfSxhF97S+ikTVxTnqrqMN5024ighKBuQ==" />
             </auto-check>
           </div>
 
@@ -1061,7 +1061,7 @@
 </dialog></dialog-helper>
     </custom-scopes>
   </div>
-</qbsearch-input><input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="P7ozSIiJ/ySvXQB9huKCjj6B4T3eUeEBQpvXca9bX1y2yaKglik2xZeoPGrhyXE5U524dw6KeEh5hyaujFzxpA==" />
+</qbsearch-input><input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="DKtiZ7Ln+NjFVkuO0uLZ+lIlwdOnlx3pBaxYYNsY1E7Ty4EvlWe9UAIll64dQC8HAr8m4irJoi7Se4JlhlBY/w==" />
 
 
           <div class="position-relative mr-lg-3 d-lg-inline-block">
@@ -1095,10 +1095,10 @@
         <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
         <span class="js-stale-session-flash-switched" hidden>You switched accounts on another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
 
-    <button id="icon-button-8db7af1d-f7ad-4386-a6ad-223a1a400d22" aria-labelledby="tooltip-824f802b-c719-41d7-9cbe-12938110a202" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
+    <button id="icon-button-d7fc8ffb-0647-4dbe-ab4b-8582f0c69fc9" aria-labelledby="tooltip-63be3d6a-15a1-4700-bca1-2b0c9cc95041" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</button><tool-tip id="tooltip-824f802b-c719-41d7-9cbe-12938110a202" for="icon-button-8db7af1d-f7ad-4386-a6ad-223a1a400d22" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
+</button><tool-tip id="tooltip-63be3d6a-15a1-4700-bca1-2b0c9cc95041" for="icon-button-d7fc8ffb-0647-4dbe-ab4b-8582f0c69fc9" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
 
 
   
@@ -1270,7 +1270,7 @@
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
 </svg>
         <span data-content="Pull requests">Pull requests</span>
-          <span id="pull-requests-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="404" data-view-component="true" class="Counter">404</span>
+          <span id="pull-requests-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="407" data-view-component="true" class="Counter">407</span>
 
 
     
@@ -1325,21 +1325,21 @@
 </ul>
     <div style="visibility:hidden;" data-view-component="true" class="UnderlineNav-actions js-responsive-underlinenav-overflow position-absolute pr-3 pr-md-4 pr-lg-5 right-0">      <action-menu data-select-variant="none" data-view-component="true">
   <focus-group direction="vertical" mnemonics retain>
-    <button id="action-menu-4b7e9e1f-908c-4091-af37-c00d81349efd-button" popovertarget="action-menu-4b7e9e1f-908c-4091-af37-c00d81349efd-overlay" aria-controls="action-menu-4b7e9e1f-908c-4091-af37-c00d81349efd-list" aria-haspopup="true" aria-labelledby="tooltip-0fa80181-0c66-4a6f-86f6-7e4937dd9dc5" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
+    <button id="action-menu-7293a280-d1e3-440e-8965-06e854ce41c1-button" popovertarget="action-menu-7293a280-d1e3-440e-8965-06e854ce41c1-overlay" aria-controls="action-menu-7293a280-d1e3-440e-8965-06e854ce41c1-list" aria-haspopup="true" aria-labelledby="tooltip-8b8c8940-28d7-4483-b77f-9400c4d1c904" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
     <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
 </svg>
-</button><tool-tip id="tooltip-0fa80181-0c66-4a6f-86f6-7e4937dd9dc5" for="action-menu-4b7e9e1f-908c-4091-af37-c00d81349efd-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
+</button><tool-tip id="tooltip-8b8c8940-28d7-4483-b77f-9400c4d1c904" for="action-menu-7293a280-d1e3-440e-8965-06e854ce41c1-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
 
 
-<anchored-position id="action-menu-4b7e9e1f-908c-4091-af37-c00d81349efd-overlay" anchor="action-menu-4b7e9e1f-908c-4091-af37-c00d81349efd-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
+<anchored-position id="action-menu-7293a280-d1e3-440e-8965-06e854ce41c1-overlay" anchor="action-menu-7293a280-d1e3-440e-8965-06e854ce41c1-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
   <div data-view-component="true" class="Overlay Overlay--size-auto">
     
       <div data-view-component="true" class="Overlay-body Overlay-body--paddingNone">          <action-list>
   <div data-view-component="true">
-    <ul aria-labelledby="action-menu-4b7e9e1f-908c-4091-af37-c00d81349efd-button" id="action-menu-4b7e9e1f-908c-4091-af37-c00d81349efd-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
+    <ul aria-labelledby="action-menu-7293a280-d1e3-440e-8965-06e854ce41c1-button" id="action-menu-7293a280-d1e3-440e-8965-06e854ce41c1-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
         <li hidden="hidden" data-menu-item="i0code-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a tabindex="-1" id="item-e96c6d22-371a-491c-b09a-947ec4b9d053" href="/stefanandonov/SI_2024" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-3f98e3c3-d2c1-4c02-a613-05164b232ddb" href="/stefanandonov/SI_2024" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -1354,7 +1354,7 @@
 </li>
         <li hidden="hidden" data-menu-item="i1issues-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a tabindex="-1" id="item-6bd4c3ed-6890-4294-aa92-f81ce97331e1" href="/stefanandonov/SI_2024/issues" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-74d27e63-1374-4a25-affb-668b04e99da6" href="/stefanandonov/SI_2024/issues" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
@@ -1369,7 +1369,7 @@
 </li>
         <li hidden="hidden" data-menu-item="i2pull-requests-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a tabindex="-1" id="item-4a7b5a17-104c-4328-bc5b-484988c68560" href="/stefanandonov/SI_2024/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-ccbf074b-2239-447f-8db3-99418cd26f44" href="/stefanandonov/SI_2024/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
@@ -1384,7 +1384,7 @@
 </li>
         <li hidden="hidden" data-menu-item="i3actions-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a tabindex="-1" id="item-dae27aa6-751e-4b37-a5b3-25d506a80086" href="/stefanandonov/SI_2024/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-b1a374fc-678e-4350-a834-1439681a5b4c" href="/stefanandonov/SI_2024/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play">
     <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path>
@@ -1399,7 +1399,7 @@
 </li>
         <li hidden="hidden" data-menu-item="i4projects-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a tabindex="-1" id="item-f837b22f-5036-48e8-ba0b-85647233d526" href="/stefanandonov/SI_2024/projects" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-ffd60b4e-7264-4c87-9dca-e3b3a09160b5" href="/stefanandonov/SI_2024/projects" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table">
     <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z"></path>
@@ -1414,7 +1414,7 @@
 </li>
         <li hidden="hidden" data-menu-item="i5security-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a tabindex="-1" id="item-019b380b-acf5-4d37-9646-12eaf329afc9" href="/stefanandonov/SI_2024/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-27010eaa-88d9-4892-8284-d68c61439b15" href="/stefanandonov/SI_2024/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield">
     <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
@@ -1429,7 +1429,7 @@
 </li>
         <li hidden="hidden" data-menu-item="i6insights-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a tabindex="-1" id="item-053abfa8-35b1-4638-b7cc-dfc1cd41c73f" href="/stefanandonov/SI_2024/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-8f0b364e-4bba-4ae1-8150-c0350c6e7e0e" href="/stefanandonov/SI_2024/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph">
     <path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
@@ -1481,7 +1481,7 @@
   data-alternate="false"
 >
   
-  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"allShortcutsEnabled":false,"fileTree":{"":{"items":[{"name":"subd","path":"subd","contentType":"directory"},{"name":".DS_Store","path":".DS_Store","contentType":"file"},{"name":"README.md","path":"README.md","contentType":"file"},{"name":"SILab1Main.java","path":"SILab1Main.java","contentType":"file"},{"name":"SILab1_1.java","path":"SILab1_1.java","contentType":"file"},{"name":"SILab1_2.java","path":"SILab1_2.java","contentType":"file"},{"name":"cat.txt","path":"cat.txt","contentType":"file"},{"name":"code.txt","path":"code.txt","contentType":"file"},{"name":"test.txt","path":"test.txt","contentType":"file"},{"name":"testadd.txt","path":"testadd.txt","contentType":"file"}],"totalCount":10}},"fileTreeProcessingTime":2.046236,"foldersToFetch":[],"repo":{"id":769182268,"defaultBranch":"master","name":"SI_2024","ownerLogin":"stefanandonov","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2024-03-08T14:09:01.000Z","ownerAvatar":"https://avatars.githubusercontent.com/u/25883420?v=4","public":true,"private":false,"isOrgOwned":false},"codeLineWrapEnabled":false,"symbolsExpanded":false,"treeExpanded":true,"refInfo":{"name":"master","listCacheKey":"v0:1711711573.0","canEdit":false,"refType":"branch","currentOid":"e965b74381a9b81f1961287343a04365ef0f2f68"},"path":"SILab1_2.java","currentUser":null,"blob":{"rawLines":["import java.util.List;","","public class SILab1_2 {","","    private static String makeBigStringFrom (List\u003cString\u003e list, int minLength) {","        StringBuilder sb = new StringBuilder();","        for (String el : list) {","            if (el.length() \u003c minLength) {","                sb.append(el);","            }","        }","        return sb.toString();","    }","}"],"stylingDirectives":[[{"s":0,"e":6,"c":"pl-k"},{"s":7,"e":11,"c":"pl-s1"},{"s":12,"e":16,"c":"pl-s1"},{"s":17,"e":21,"c":"pl-s1"}],[],[{"s":0,"e":6,"c":"pl-k"},{"s":7,"e":12,"c":"pl-k"},{"s":13,"e":21,"c":"pl-smi"}],[],[{"s":4,"e":11,"c":"pl-k"},{"s":12,"e":18,"c":"pl-k"},{"s":19,"e":25,"c":"pl-smi"},{"s":26,"e":43,"c":"pl-en"},{"s":45,"e":49,"c":"pl-smi"},{"s":50,"e":56,"c":"pl-smi"},{"s":58,"e":62,"c":"pl-s1"},{"s":64,"e":67,"c":"pl-smi"},{"s":68,"e":77,"c":"pl-s1"}],[{"s":8,"e":21,"c":"pl-smi"},{"s":22,"e":24,"c":"pl-s1"},{"s":27,"e":30,"c":"pl-k"},{"s":31,"e":44,"c":"pl-smi"}],[{"s":8,"e":11,"c":"pl-k"},{"s":13,"e":19,"c":"pl-smi"},{"s":20,"e":22,"c":"pl-s1"},{"s":25,"e":29,"c":"pl-s1"}],[{"s":12,"e":14,"c":"pl-k"},{"s":16,"e":18,"c":"pl-s1"},{"s":19,"e":25,"c":"pl-en"},{"s":30,"e":39,"c":"pl-s1"}],[{"s":16,"e":18,"c":"pl-s1"},{"s":19,"e":25,"c":"pl-en"},{"s":26,"e":28,"c":"pl-s1"}],[],[],[{"s":8,"e":14,"c":"pl-k"},{"s":15,"e":17,"c":"pl-s1"},{"s":18,"e":26,"c":"pl-en"}],[],[]],"colorizedLines":null,"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/stefanandonov/SI_2024/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":null},"displayName":"SILab1_2.java","displayUrl":"https://github.com/stefanandonov/SI_2024/blob/master/SILab1_2.java?raw=true","headerInfo":{"blobSize":"346 Bytes","deleteTooltip":"You must be signed in to make or propose changes","editTooltip":"You must be signed in to make or propose changes","ghDesktopPath":"https://desktop.github.com","isGitLfs":false,"onBranch":true,"shortPath":"f262995","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2Fstefanandonov%2FSI_2024%2Fblob%2Fmaster%2FSILab1_2.java","isCSV":false,"isRichtext":false,"toc":null,"lineInfo":{"truncatedLoc":"14","truncatedSloc":"12"},"mode":"file"},"image":false,"isCodeownersFile":null,"isPlain":false,"isValidLegacyIssueTemplate":false,"issueTemplate":null,"discussionTemplate":null,"language":"Java","languageID":181,"large":false,"planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/stefanandonov/SI_2024/blob/master/SILab1_2.java","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","releasePath":"/stefanandonov/SI_2024/releases/new?marketplace=true","showPublishActionBanner":false},"rawBlobUrl":"https://github.com/stefanandonov/SI_2024/raw/master/SILab1_2.java","renderImageOrRaw":false,"richText":null,"renderedFileInfo":null,"shortPath":null,"symbolsEnabled":true,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","actionsOnboardingTip":null},"truncated":false,"viewable":true,"workflowRedirectUrl":null,"symbols":{"timed_out":false,"not_analyzed":false,"symbols":[{"name":"SILab1_2","kind":"class","ident_start":37,"ident_end":45,"extent_start":24,"extent_end":346,"fully_qualified_name":"SILab1_2","ident_utf16":{"start":{"line_number":2,"utf16_col":13},"end":{"line_number":2,"utf16_col":21}},"extent_utf16":{"start":{"line_number":2,"utf16_col":0},"end":{"line_number":14,"utf16_col":0}}},{"name":"makeBigStringFrom","kind":"method","ident_start":75,"ident_end":92,"extent_start":53,"extent_end":344,"fully_qualified_name":"SILab1_2::makeBigStringFrom","ident_utf16":{"start":{"line_number":4,"utf16_col":26},"end":{"line_number":4,"utf16_col":43}},"extent_utf16":{"start":{"line_number":4,"utf16_col":4},"end":{"line_number":12,"utf16_col":5}}}]}},"copilotInfo":null,"copilotAccessAllowed":false,"csrf_tokens":{"/stefanandonov/SI_2024/branches":{"post":"nY-nEWOD4SJZjmuXNm1kjDNnrFWRLm7ZgdrDhWsSCdYOYpFnhr_4SOZ6EghrFYXYFoZEImzFPJI37D9i4AZexA"},"/repos/preferences":{"post":"DJRI7EZd96yVSzNbZqrCSwQHVX0sdZGvB_bcKQ_fe_Y1UgSRAXcW9G29dQY4ggkE14p07SJk5uEttlssA2rfWA"}}},"title":"SI_2024/SILab1_2.java at master · stefanandonov/SI_2024","appPayload":{"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-a007d7f370d6.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-d0f0ff069004.js","githubDevUrl":null,"enabled_features":{"code_nav_ui_events":false,"copilot_conversational_ux":false,"react_blob_overlay":false,"copilot_conversational_ux_embedding_update":false,"copilot_popover_file_editor_header":false,"copilot_smell_icebreaker_ux":true,"copilot_workspace":false}}}</script>
+  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"allShortcutsEnabled":false,"fileTree":{"":{"items":[{"name":"subd","path":"subd","contentType":"directory"},{"name":".DS_Store","path":".DS_Store","contentType":"file"},{"name":"README.md","path":"README.md","contentType":"file"},{"name":"SILab1Main.java","path":"SILab1Main.java","contentType":"file"},{"name":"SILab1_1.java","path":"SILab1_1.java","contentType":"file"},{"name":"SILab1_2.java","path":"SILab1_2.java","contentType":"file"},{"name":"cat.txt","path":"cat.txt","contentType":"file"},{"name":"code.txt","path":"code.txt","contentType":"file"},{"name":"test.txt","path":"test.txt","contentType":"file"},{"name":"testadd.txt","path":"testadd.txt","contentType":"file"}],"totalCount":10}},"fileTreeProcessingTime":2.076429,"foldersToFetch":[],"repo":{"id":769182268,"defaultBranch":"master","name":"SI_2024","ownerLogin":"stefanandonov","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2024-03-08T14:09:01.000Z","ownerAvatar":"https://avatars.githubusercontent.com/u/25883420?v=4","public":true,"private":false,"isOrgOwned":false},"codeLineWrapEnabled":false,"symbolsExpanded":false,"treeExpanded":true,"refInfo":{"name":"master","listCacheKey":"v0:1711711573.0","canEdit":false,"refType":"branch","currentOid":"e965b74381a9b81f1961287343a04365ef0f2f68"},"path":"SILab1_2.java","currentUser":null,"blob":{"rawLines":["import java.util.List;","","public class SILab1_2 {","","    private static String makeBigStringFrom (List\u003cString\u003e list, int minLength) {","        StringBuilder sb = new StringBuilder();","        for (String el : list) {","            if (el.length() \u003c minLength) {","                sb.append(el);","            }","        }","        return sb.toString();","    }","}"],"stylingDirectives":[[{"s":0,"e":6,"c":"pl-k"},{"s":7,"e":11,"c":"pl-s1"},{"s":12,"e":16,"c":"pl-s1"},{"s":17,"e":21,"c":"pl-s1"}],[],[{"s":0,"e":6,"c":"pl-k"},{"s":7,"e":12,"c":"pl-k"},{"s":13,"e":21,"c":"pl-smi"}],[],[{"s":4,"e":11,"c":"pl-k"},{"s":12,"e":18,"c":"pl-k"},{"s":19,"e":25,"c":"pl-smi"},{"s":26,"e":43,"c":"pl-en"},{"s":45,"e":49,"c":"pl-smi"},{"s":50,"e":56,"c":"pl-smi"},{"s":58,"e":62,"c":"pl-s1"},{"s":64,"e":67,"c":"pl-smi"},{"s":68,"e":77,"c":"pl-s1"}],[{"s":8,"e":21,"c":"pl-smi"},{"s":22,"e":24,"c":"pl-s1"},{"s":27,"e":30,"c":"pl-k"},{"s":31,"e":44,"c":"pl-smi"}],[{"s":8,"e":11,"c":"pl-k"},{"s":13,"e":19,"c":"pl-smi"},{"s":20,"e":22,"c":"pl-s1"},{"s":25,"e":29,"c":"pl-s1"}],[{"s":12,"e":14,"c":"pl-k"},{"s":16,"e":18,"c":"pl-s1"},{"s":19,"e":25,"c":"pl-en"},{"s":30,"e":39,"c":"pl-s1"}],[{"s":16,"e":18,"c":"pl-s1"},{"s":19,"e":25,"c":"pl-en"},{"s":26,"e":28,"c":"pl-s1"}],[],[],[{"s":8,"e":14,"c":"pl-k"},{"s":15,"e":17,"c":"pl-s1"},{"s":18,"e":26,"c":"pl-en"}],[],[]],"colorizedLines":null,"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/stefanandonov/SI_2024/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":null},"displayName":"SILab1_2.java","displayUrl":"https://github.com/stefanandonov/SI_2024/blob/master/SILab1_2.java?raw=true","headerInfo":{"blobSize":"346 Bytes","deleteTooltip":"You must be signed in to make or propose changes","editTooltip":"You must be signed in to make or propose changes","ghDesktopPath":"https://desktop.github.com","isGitLfs":false,"onBranch":true,"shortPath":"f262995","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2Fstefanandonov%2FSI_2024%2Fblob%2Fmaster%2FSILab1_2.java","isCSV":false,"isRichtext":false,"toc":null,"lineInfo":{"truncatedLoc":"14","truncatedSloc":"12"},"mode":"file"},"image":false,"isCodeownersFile":null,"isPlain":false,"isValidLegacyIssueTemplate":false,"issueTemplate":null,"discussionTemplate":null,"language":"Java","languageID":181,"large":false,"planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/stefanandonov/SI_2024/blob/master/SILab1_2.java","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","releasePath":"/stefanandonov/SI_2024/releases/new?marketplace=true","showPublishActionBanner":false},"rawBlobUrl":"https://github.com/stefanandonov/SI_2024/raw/master/SILab1_2.java","renderImageOrRaw":false,"richText":null,"renderedFileInfo":null,"shortPath":null,"symbolsEnabled":true,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","actionsOnboardingTip":null},"truncated":false,"viewable":true,"workflowRedirectUrl":null,"symbols":{"timed_out":false,"not_analyzed":false,"symbols":[{"name":"SILab1_2","kind":"class","ident_start":37,"ident_end":45,"extent_start":24,"extent_end":346,"fully_qualified_name":"SILab1_2","ident_utf16":{"start":{"line_number":2,"utf16_col":13},"end":{"line_number":2,"utf16_col":21}},"extent_utf16":{"start":{"line_number":2,"utf16_col":0},"end":{"line_number":14,"utf16_col":0}}},{"name":"makeBigStringFrom","kind":"method","ident_start":75,"ident_end":92,"extent_start":53,"extent_end":344,"fully_qualified_name":"SILab1_2::makeBigStringFrom","ident_utf16":{"start":{"line_number":4,"utf16_col":26},"end":{"line_number":4,"utf16_col":43}},"extent_utf16":{"start":{"line_number":4,"utf16_col":4},"end":{"line_number":12,"utf16_col":5}}}]}},"copilotInfo":null,"copilotAccessAllowed":false,"csrf_tokens":{"/stefanandonov/SI_2024/branches":{"post":"YR4avkwW-FIueTjE1asSLa9n-wmmv0WL8cahIVHE5AGn7soiyr6TOxxPVD8u43OH4YeXkz5XimrA-zwv49gutQ"},"/repos/preferences":{"post":"9cywyGya_1BNPpYiyi2OK_kQgvtQaSTu2FdE8ko8OEZYNA8uvt5ysmWF8RF0MCS3LXhfrpdvcm9Zol1RITW7Fg"}}},"title":"SI_2024/SILab1_2.java at master · stefanandonov/SI_2024","appPayload":{"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-a007d7f370d6.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-d0f0ff069004.js","githubDevUrl":null,"enabled_features":{"code_nav_ui_events":false,"copilot_conversational_ux":false,"react_blob_overlay":false,"copilot_conversational_ux_embedding_update":false,"copilot_popover_file_editor_header":false,"copilot_smell_icebreaker_ux":true,"copilot_workspace":false}}}</script>
   <div data-target="react-app.reactRoot"></div>
 </react-app>
 </turbo-frame>
